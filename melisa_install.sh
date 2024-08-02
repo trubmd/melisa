@@ -6,4 +6,5 @@ yes | conda create -n melisa sage python=3.10
 conda activate melisa
 pip install jupyter qtconsole
 pip install PyQt5
+cd ..
 conda deactivate

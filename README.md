@@ -58,4 +58,12 @@ chmod +x melisa.sh
 ```
 ./melisa.sh
 ```
+## Обновление
+Для обновления выполните:
 
+```
+git clone https://github.com/trubmd/melisa.git
+cd melisa
+chmod +x melisa_update.sh
+./melisa_update.sh
+```

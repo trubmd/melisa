@@ -62,6 +62,7 @@ chmod +x melisa.sh
 Для обновления выполните:
 
 ```
+rm -rf melisa
 git clone https://github.com/trubmd/melisa.git
 cd melisa
 chmod +x melisa_update.sh

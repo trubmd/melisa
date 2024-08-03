@@ -4,5 +4,5 @@ conda activate melisa
 #pip install something...
 cp ~/melisa/melisa.sh ~/
 chmod +x melisa.sh
-cd ..
 conda deactivate
+cd ..

@@ -8,5 +8,6 @@ conda activate melisa
 pip install jupyter qtconsole
 pip install PyQt5
 cp ~/melisa/melisa.sh ~/
+chmod +x melisa.sh
 cd ..
 conda deactivate

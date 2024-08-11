@@ -10,4 +10,5 @@ pip install PyQt5
 cp ~/melisa/melisa.sh ~/
 chmod +x melisa.sh
 cd ..
+chmod +x melisa.sh
 conda deactivate

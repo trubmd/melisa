@@ -5,5 +5,6 @@ conda activate melisa
 cp ~/melisa/melisa.sh ~/
 chmod +x melisa.sh
 cd ..
+chmod +x melisa.sh
 conda deactivate
 
